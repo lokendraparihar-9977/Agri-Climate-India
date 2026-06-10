@@ -54,9 +54,8 @@ st.markdown("""
 crop_df, rain_df, temp_df, water_df = load_all_data()
 
 # ── Header ──
-st.markdown('<p class="main-header">🌾 AgriClimate India</p>', unsafe_allow_html=True)
-st.markdown('<p class="sub-header">Crop Yield & Climate Analysis Dashboard · 1997–2020</p>',
-            unsafe_allow_html=True)
+st.markdown("## 🌾 AgriClimate India")
+st.markdown("Crop Yield & Climate Analysis Dashboard · 1997–2020")
 
 st.divider()
 
