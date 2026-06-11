@@ -221,6 +221,7 @@ The `Notebooks/` folder contains the full analytical pipeline:
 - GitHub: [@lokendraparihar-9977](https://github.com/lokendraparihar-9977)
 - Project: [AgriClimate India Dashboard](https://lokendra-s-parihar-agri-climate.streamlit.app)
 - LinkedIn: [Lokendra Singh Parihar](www.linkedin.com/in/pariharlokendra2004)
+- Blog Post: [Medium Article](https://medium.com/@lokendraparihar9977/title-how-i-built-an-ai-powered-crop-yield-predictor-for-india-using-xgboost-and-streamlit-655cc13c4061)
 - Email: lokendraparihar9977@gmail.com
 
 ---
